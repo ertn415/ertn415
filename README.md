@@ -8,13 +8,6 @@ I'm a dynamic and solution-oriented **React Front-End Developer** passionate abo
 - **🔹 Driven** by a continuous desire to learn and innovate in the software development space.
 - **🔹 Will expand** my skill set to include backend development and React Native.
 
-## 🛠️ Technologies & Skills
-
-- **React.js** 🌟
-- **JavaScript** and **TypeScript** 💡
-- **HTML/CSS** 🎨
-- **Node.js** and **Express** (Learning) 🔧
-- **React Native** (Learning) 📱
 
 ## 🚀 My Goals
 
